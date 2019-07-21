@@ -1,7 +1,6 @@
 # Como usar
 Descargar el repositorio, descomprimir el zip y abrir ella archivo tiempo.html en el navegador.
 
-##Descripción
 Aemet necesita los códigos específicos de cada municipio, por lo tanto he descargado los datos en un excel y los he puesto en formato json en el fichero codes.js que se  carga antes de tiempo.js.
 La url que nos devuelve los datos es la siguiente:
 https://opendata.aemet.es/dist/index.html?#!/predicciones-especificas/Predicci%C3%B3n_por_municipios_diaria_Tiempo_actual
