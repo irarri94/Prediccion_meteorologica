@@ -7,7 +7,7 @@ https://opendata.aemet.es/dist/index.html?#!/predicciones-especificas/Predicci%C
 
 # Funcionamiento:
 El usuario elige la provincia y luego el pueblo. Cuando el selector del pueblo cambia se obtienen los datos meteorológicos del municipio seleccionado.
-Hay que hacer dos llamadas, la primera con la api key que nos devuelve la url definitiva y hacemos otra petición contra en la cual nos devuelve los datos definitivos.
+Hay que hacer dos llamadas, la primera con la api key que nos devuelve la url definitiva y hacemos la segunda petición contra ella la cual nos devuelve los datos definitivos.
 
 ### Datos mostrados:
 Estado del cielo: muestra el primer valor que nos devuelve, el general.
